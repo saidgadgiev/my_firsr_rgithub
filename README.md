@@ -7,3 +7,7 @@
 
 bad text
 GitHub Bad text
+
+# Это картинка
+Это машина
+![это м ашина](car.jpg)

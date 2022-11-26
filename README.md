@@ -9,7 +9,7 @@ bad text
 GitHub Bad text
 
 # Это картинка
-Это машина
+Это машина / This car
 
 ![это м ашина](car.jpg)
 

@@ -2,4 +2,4 @@
 
 Добаввить текст локально
 
-Добавил текст в GitHub
+Добавил текст в GitHub / Add english text GitHub
